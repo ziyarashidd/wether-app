@@ -7,25 +7,9 @@ for.
 ![Landing](./.blob/landing.png)
 ![Weather Data](./.blob/weather.png)
 
-## Getting Started
 
-- Clone the repository:
-    ```bash
-  git clone https://github.com/ziyarashidd 
-    ```
-- Install dependencies:
-    ```bash
-    npm install
-    ```
-- Create your account on [OpenWeather](https://openweathermap.org/) and get your API key.
-- Make an environmental variable named `NEXT_PUBLIC_WEATHER_API_KEY` and set it to your API key.
-- Run the development server:
-    ```bash
-    npm run dev
-    ```
-- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Built With
+## Build With
 
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
